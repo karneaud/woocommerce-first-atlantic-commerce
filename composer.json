@@ -28,6 +28,6 @@
     "require": {
         "php": ">=7.2",
         "composer/installers": "~1.0",
-        "bitpiston/omnipay-first-atlantic-commerce": "*"
+        "bitpiston/omnipay-first-atlantic-commerce": "dev-master#e72cd44f798e88289b338c59fc829b966ccec006 as dev-master"
     }
 }
